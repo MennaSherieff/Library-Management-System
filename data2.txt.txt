@@ -1,0 +1,12 @@
+gg,3,Checked out,20/05/2024
+gg,3,,20/05/2024
+gg,3,Checked out,20/05/2024
+ggg,5,Checked out,20/05/2024
+ggg,5,Returned,20/05/2024
+gggg,8,Returned,20/05/2024
+ggggg,11,Checked out,20/05/2024
+ggggg,11,Returned,21/05/2024
+P,13,Checked out,21/05/2024
+P,13,Returned,21/05/2024
+P,13,Checked out,21/05/2024
+M,14,Checked out,21/05/2024
